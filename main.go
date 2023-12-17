@@ -16,7 +16,7 @@ type ResponseData struct {
 //export handle
 func handle() {
     
-    message := "👋 I'm the Simplism process spawner"
+    message := "👋 Hello! I'm Simplism FaaS 😉"
     
     responseData := ResponseData{
         Body:   message,
