@@ -1,5 +1,5 @@
 #image: k33g/gitpod-extism-playground:0.0.1
-image: k33g/gitpod-simplism-playground:0.0.1
+image: k33g/gitpod-simplism-playground:0.0.2
 
 tasks:
     - name: install-simplism
